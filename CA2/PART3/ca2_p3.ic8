@@ -1,0 +1,45 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "22:53:39 05/17/2026 "
+* "netlist" "ca2_p3.sp "
+* "runtitle" "* full combinational circuit for ca2 - advanced vlsi"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ i =  50.9080m       
++ j =  50.9080m       
++ k =   1.7971        
++ l =   1.7733        
++ n =  52.9281m       
++ n1 =  57.4730m       
++ out =   1.7720        
++ out2 =   1.7809        
++ vdd =   1.8000        
++ w =   1.7846        
++ x =  50.9434m       
++ z1 =   0.            
++ z10 =   1.8000        
++ z2 =   0.            
++ z3 =   0.            
++ z4 =   0.            
++ z5 =   0.            
++ z6 =   0.            
++ z7 =   0.            
++ z8 =   1.8000        
++ z9 =   1.8000        
++ xnor2_gate.net1 =   1.7923        
++ xnor_i.net1 =   1.7551        
++ xnor_i.net2 =   1.7777        
++ xnor_x.net1 =   1.7551        
++ xnor_x.net2 =   1.7777        
++ xnor_j.net1 =   1.7551        
++ xnor_j.net2 =   1.7777        
++ xnand2_k.net1 =   1.3221        
++ xnand2_out.net1 =   7.6162m       
++ xnand2_l.net1 =   7.6545m       
+***   END: Saved Operating Point ***                     

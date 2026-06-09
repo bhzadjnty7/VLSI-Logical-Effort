@@ -1,0 +1,10 @@
+       1 xnor2_gate.
+       2 xnor_i.
+       3 xnor_x.
+       4 xnor_j.
+       5 xnand2_k.
+       6 xnand2_out.
+       7 xnand2_l.
+       8 xinv_n1.
+       9 xinv_out2.
+      10 xinv_n.
