@@ -370,3 +370,7 @@ University of Tehran
 This repository is intended for educational and academic purposes.
 
 Students are encouraged to study the implementation, understand the methodology, and use the material as a learning resource for VLSI design and HSPICE simulation.
+
+## ⭐️ Support
+
+If you find this repository useful, consider giving it a ⭐️
