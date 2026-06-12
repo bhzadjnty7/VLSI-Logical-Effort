@@ -371,6 +371,11 @@ This repository is intended for educational and academic purposes.
 
 Students are encouraged to study the implementation, understand the methodology, and use the material as a learning resource for VLSI design and HSPICE simulation.
 
+MIT License
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
 ## ⭐️ Support
 
 If you find this repository useful, consider giving it a ⭐️
